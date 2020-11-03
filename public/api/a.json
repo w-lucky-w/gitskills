@@ -1,0 +1,27 @@
+{
+	"res":"true",
+	"data":[
+		{
+			"id":"1",
+			"name": "a",
+			"sex": 12,
+			"birthday": "1999",
+			"landscape": "q",
+			"education":"q",
+			"degree":"s",
+			"title":"w",
+			"graduation":"s"
+		},
+		{
+			"id":"2",
+			"name": "a",
+			"sex": 12,
+			"birthday": "1999",
+			"landscape": "q",
+			"education":"q",
+			"degree":"s",
+			"title":"w",
+			"graduation":"s"
+		}
+	]
+}
